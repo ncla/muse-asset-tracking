@@ -94,8 +94,4 @@ const requestHeaders = {
             return console.log(err);
         }
     });
-
-    // console.log(mainSiteCss, mainSiteJs)
 })();
-
-// https://www.muse.mu/news
